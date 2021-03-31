@@ -1,7 +1,7 @@
 package com.tddpart1.app;
 
 public class Dollar {
-    int amount;
+    private int amount;
 
     Dollar(int amount) {
         this.amount = amount;

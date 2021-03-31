@@ -3,3 +3,7 @@
 * Make "amount" private
         DONE => Dollar side-effects?
 * Money rounding?
+        DONE => equals()
+* hashCode()
+* Equal null
+* Equal object

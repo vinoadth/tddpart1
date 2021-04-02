@@ -6,13 +6,8 @@ public class Franc extends Money {
         this.amount = amount;
     }
 
-    Franc times(int multiplier) {
+    Money times(int multiplier) {
         return new Franc(amount * multiplier);
     }
 
-    @Override
-    public boolean equals(Object object) {
-        Money money = (Money) object;
-        return amount == money.amount;
-    }
 }

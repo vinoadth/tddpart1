@@ -11,4 +11,6 @@
 * Dollar/Franc duplication
         DONE => Common equals
 * Common times
-* Compare Francs with Dollar
+        DONE => Compare Francs with Dollar
+* Currency?
+* Delete testFrancMultiplication?

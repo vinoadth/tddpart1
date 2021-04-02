@@ -1,13 +1,13 @@
 package com.tddpart1.app;
 
-public class Dollar extends Money {
+public class Franc extends Money {
 
-    Dollar(int amount) {
+    Franc(int amount) {
         this.amount = amount;
     }
 
-    Dollar times(int multiplier) {
-        return new Dollar(amount * multiplier);
+    Franc times(int multiplier) {
+        return new Franc(amount * multiplier);
     }
 
     @Override

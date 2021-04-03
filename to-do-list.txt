@@ -10,7 +10,7 @@
         DONE => 5 CHF * 2 = 10 CHF
 * Dollar/Franc duplication
         DONE => Common equals
-* Common times
+        DONE => Common times
         DONE => Compare Francs with Dollar
-* Currency?
+        DONE => Currency?
 * Delete testFrancMultiplication?
